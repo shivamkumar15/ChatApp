@@ -21,7 +21,7 @@ This project lets users connect and chat instantly with others through a modern,
 
  **JavaScript** — Core language for frontend logic  
  **HTML & CSS** — Markup and styling  
- **ChatEngine** — Real-time chat engine API for messaging and event handling :contentReference[oaicite:0]{index=0}
+ **ChatEngine** — Real-time chat engine API for messaging
 
 ---
 
