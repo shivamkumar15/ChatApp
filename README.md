@@ -9,19 +9,19 @@ This project lets users connect and chat instantly with others through a modern,
 
 ##  Features
 
-✔ Real-time messaging  
-✔ Multiple user support  
-✔ Simple UI built with HTML, CSS & JavaScript  
-✔ Powered by ChatEngine for seamless real-time communication  
-✔ Easy to configure and extend
+ Real-time messaging  
+ Multiple user support  
+ Simple UI built with HTML, CSS & JavaScript  
+ Powered by ChatEngine for seamless real-time communication  
+ Easy to configure and extend
 
 ---
 
 ##  Built With
 
-🔹 **JavaScript** — Core language for frontend logic  
-🔹 **HTML & CSS** — Markup and styling  
-🔹 **ChatEngine** — Real-time chat engine API for messaging and event handling :contentReference[oaicite:0]{index=0}
+ **JavaScript** — Core language for frontend logic  
+ **HTML & CSS** — Markup and styling  
+ **ChatEngine** — Real-time chat engine API for messaging and event handling :contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -31,8 +31,8 @@ This project lets users connect and chat instantly with others through a modern,
 
 Make sure you have:
 
-- A modern web browser
-- A ChatEngine account (to obtain API keys)
+ A modern web browser
+ A ChatEngine account (to obtain API keys)
 
 ### Installation
 
@@ -41,3 +41,4 @@ Make sure you have:
 ```bash
 git clone https://github.com/shivamkumar15/ChatApp.git
 cd ChatApp
+npm install
