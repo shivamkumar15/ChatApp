@@ -25,15 +25,6 @@ This project lets users connect and chat instantly with others through a modern,
 
 ---
 
-##  Getting Started
-
-### Prerequisites
-
-Make sure you have:
-
- A modern web browser
- A ChatEngine account (to obtain API keys)
-
 ### Installation
 
 1. **Clone the repository**
